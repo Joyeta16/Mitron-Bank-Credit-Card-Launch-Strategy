@@ -36,4 +36,42 @@ The dataset consists of two CSV files:
   - Payment Type
   - Amount Spent
 
-The dataset is fully accessible on the Codebasics website and can be viewed via the [link](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+The dataset is fully accessible on the Codebasics website and can be viewed via the [link](https://codebasics.io/challenge/codebasics-resume-project-challenge)  
+
+## Tech Stack
+- Data Visualization: Power BI
+- Data Analysis: Power BI, Excel
+- Data Modeling: Star Schema
+- Tools: Excel, Power BI Desktop, Power BI Service and Powerpoint
+
+## Data Model
+![Screenshot 2025-04-10 095304](https://github.com/user-attachments/assets/66d161cc-6d9a-43c4-85c5-8b598561c7b1)
+
+## Login Page
+![Screenshot 2025-04-10 094609](https://github.com/user-attachments/assets/536d1cf2-caf2-493a-9a22-b5d91de95f1b)
+
+## Demographic Analysis Dashboard
+![Screenshot 2025-04-10 094701](https://github.com/user-attachments/assets/90967e16-bbef-4c33-99f7-08d6cf3c5caa)
+
+## Financial Behavior Analysis Dashboard
+![Screenshot 2025-04-10 094756](https://github.com/user-attachments/assets/e6884ed9-59df-4ae0-96c4-f3ee1c5cda28)
+![Financial Behavior Analysis Dashboard DS](https://github.com/user-attachments/assets/6be9dc98-a476-4101-9a5f-37da3d458b2d)
+![Financial Behavior Analysis Dashboard PT](https://github.com/user-attachments/assets/cdb9df9a-3863-4bad-a219-6c20206c3466)
+
+## Executive Dashboard
+![Screenshot 2025-04-10 094924](https://github.com/user-attachments/assets/8d88edb1-f3ff-4227-a5c3-a7ad5e4597ea)
+
+## Key Insights
+
+## Recommendations
+
+## Links
+
+## Linkedin Post
+## Live Dashboard
+## Presentation
+
+
+
+
+
