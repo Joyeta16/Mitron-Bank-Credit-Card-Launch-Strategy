@@ -62,6 +62,12 @@ The dataset is fully accessible on the Codebasics website and can be viewed via 
 ![Screenshot 2025-04-10 094924](https://github.com/user-attachments/assets/8d88edb1-f3ff-4227-a5c3-a7ad5e4597ea)
 
 ## Key Insights
+- Customers aged **25–34** make up the largest demographic segment at **~37%** of the total customer base.
+- The **Emerging Affluent group** (Avg. Income - ₹40K–₹80K/month), primarily **Salaried IT professionals**, accounts for **~68%** of all customers.
+- Around **30%** of customers fall into the **high income utilization category**, spending more than 50% of their income.
+- **Mumbai** has the highest customer base and spending, while **Hyderabad** has the lowest, despite being the bank’s headquarters.
+- **Bills (~20%)** and **Groceries (~16%)** are the top spending categories, followed by **Electronics**.
+- **Credit Cards** are the most used payment mode at **~41%**, while customers aged **below 25** prefer **UPI**.
 
 ## Recommendations
 
