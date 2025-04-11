@@ -84,7 +84,7 @@ This repository includes a PDF version and a folder containing dashboard images 
 - Collaborate with brands for co-branded credit cards and provide business credit cards based on financial profiles.
 
 ## 📎 Links
-🌐 Linkedin Post  
+🌐 [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7316352633944862720/)  
 📊 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGE2ODNhM2ItOTAyZi00NjYxLWFmZjAtNjQ2ZDg0ZDA3MGI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 🖥️ [Presentation](https://youtu.be/1pEGq4TD-t0)
 
