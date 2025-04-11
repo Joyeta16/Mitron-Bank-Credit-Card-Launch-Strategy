@@ -68,7 +68,7 @@ This repository includes a PDF version and a folder containing dashboard images 
 
 ## 💡 Key Insights
 - Customers aged **25–34** make up the largest demographic segment at **~37%** of the total customer base.
-- The **Emerging Affluent group** (Avg. Income - ₹40K–₹80K/month), primarily **Salaried IT employees**, accounts for **~68%** of all customers.
+- The **Emerging Affluent group** (Avg. Income - ₹40K–₹80K/month), accounts for **~68%** of all customers, and all **Salaried IT employees** fall within this income segment.
 - Around **30%** of customers fall into the **high income utilization category**, spending more than 50% of their income.
 - **Mumbai** has the highest customer base and spending, while **Hyderabad** has the lowest, despite being the bank’s headquarters.
 - **Bills (~20%)** and **Groceries (~16%)** are the top spending categories, followed by **Electronics**.
