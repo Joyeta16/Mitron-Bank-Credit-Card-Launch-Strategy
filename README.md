@@ -38,6 +38,11 @@ The dataset consists of two CSV files:
 
 The dataset is fully accessible on the Codebasics website and can be viewed via the [link](https://codebasics.io/challenge/codebasics-resume-project-challenge)  
 
+## What’s Inside
+This repository includes a PDF version and a folder containing dashboard images from the Power BI report hosted on the Power BI Service. Use the links below for a quick preview.
+- [Dashboard as PDF](https://github.com/Joyeta16/Mitron-Bank-Credit-Card-Launch-Strategy/blob/main/Mitron%20Bank%20Dashboard.pdf)
+- [Dashboard as Images](https://github.com/Joyeta16/Mitron-Bank-Credit-Card-Launch-Strategy/tree/main/Dashboard-images)
+
 ## Tech Stack
 - Data Visualization: Power BI
 - Data Analysis: Power BI, Excel
@@ -63,19 +68,25 @@ The dataset is fully accessible on the Codebasics website and can be viewed via 
 
 ## Key Insights
 - Customers aged **25–34** make up the largest demographic segment at **~37%** of the total customer base.
-- The **Emerging Affluent group** (Avg. Income - ₹40K–₹80K/month), primarily **Salaried IT professionals**, accounts for **~68%** of all customers.
+- The **Emerging Affluent group** (Avg. Income - ₹40K–₹80K/month), primarily **Salaried IT employees**, accounts for **~68%** of all customers.
 - Around **30%** of customers fall into the **high income utilization category**, spending more than 50% of their income.
 - **Mumbai** has the highest customer base and spending, while **Hyderabad** has the lowest, despite being the bank’s headquarters.
 - **Bills (~20%)** and **Groceries (~16%)** are the top spending categories, followed by **Electronics**.
 - **Credit Cards** are the most used payment mode at **~41%**, while customers aged **below 25** prefer **UPI**.
 
 ## Recommendations
+- Prioritize customers aged 25–34 and the Emerging Affluent (₹40K–₹80K) income group, especially Salaried IT employees with high spending potential.
+- Introduce Basic, Elite, and Premium cards tailored to income groups, offering relevant rewards, fees, and credit limits.
+- Integrate credit card payments with UPI apps to boost adoption, especially among younger users.
+- Offer loyalty points or exclusive deals to encourage migration from debit to credit card usage.
+- Run rewards and cashback campaigns on bills, groceries, and electronics to drive initial card usage.
+- Use targeted promotions to increase spending in food, apparel, and entertainment segments.
+- Collaborate with brands for co-branded credit cards and provide business credit cards based on financial profiles.
 
 ## Links
-
-## Linkedin Post
-## Live Dashboard
-## Presentation
+- Linkedin Post
+- Live Dashboard
+- Presentation
 
 
 
