@@ -47,7 +47,7 @@ This repository includes a PDF version and a folder containing dashboard images 
 - **Data Visualization:** Power BI
 - **Data Analysis:** Power BI, Excel
 - **Data Modeling:** Star Schema
-- **Tools:** Excel, Power BI Desktop, Power BI Service and Powerpoint
+- **Tools:** Excel, Power BI Desktop, Power BI Service, Canva, Napkin AI and Powerpoint
 
 ## 🛠️ Data Model
 ![Screenshot 2025-04-10 095304](https://github.com/user-attachments/assets/66d161cc-6d9a-43c4-85c5-8b598561c7b1)
